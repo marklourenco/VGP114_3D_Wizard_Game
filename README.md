@@ -16,7 +16,7 @@ The result? A 3D wizard-themed platformer where the player journeys through myst
 **Team Size:** 3 Students  
 **Development Time:** ~9 Weeks  
 
-In the game, you play as a wizard navigating an ancient castle full of challenges. As you progress, you unlock new powers that allow you to overcome increasingly complex puzzles and enemies. Each level introduces new mechanics, keeping the gameplay fresh and engaging.
+This is a game about a wizard that lost all their spells on an expedition to find the Flying Spell. The player is trapped in a jail cell located in a magical castle. They need to overcome the obstacles while regaining their lost spells around the castle to obtain the Ultimate Flying Spell!
 
 - **Powers**
   - Double Jump
@@ -43,6 +43,19 @@ In the game, you play as a wizard navigating an ancient castle full of challenge
 
 - **Narda Limon**  
   *UI Design, UI Programming, Sound Design*
+  
+---
+
+## 🔥 Obstacles
+- Lava
+- Spikes
+- Static Projectile
+- Swinging Sword
+- Portal (non-damage)
+- Rotating Platform (non-damage)
+- Moving Platform (non-damage)
+- Disappearing Platform (non-damage)
+- Destructible (with fireball spell)
 
 ---
 
@@ -97,7 +110,3 @@ While we're proud of what we accomplished, there’s always room to level up:
   - Additional magic abilities  
   - Dialogue/cutscene system  
   - More expansive level design
-
----
-
-Thanks for checking out our project! If you have feedback or ideas, feel free to reach out or fork the project to expand on it.

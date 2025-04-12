@@ -1,0 +1,18 @@
+1. Maps-_GENERATED-StaticMesh- (Added folders with static meshes for each level. Did not move anything old into it only new things)
+
+2. Added folder "Texture" in ThirdPerson-Blueprints-Materials-Texture. 
+	In there is texture files for materials that are NOT in the starter content
+3. Added Materials 
+	M_GlowTorch
+	M_Lava1
+	M_Stone_Brick_Wall_1
+	M_Water2
+	M_Pillow
+	M_Wood_Plank04
+	M_WizBod
+
+4. Updated maps Spawn, Level 1, 
+
+5. BP_ThirdPersonCharacter Added Material
+
+
